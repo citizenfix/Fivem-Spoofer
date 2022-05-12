@@ -5,3 +5,4 @@ follow the video :https://www.youtube.com/watch?v=_wgPbll0mtU
 ▬ ❄️ What is a HWID ban?  ▬▬▬▬▬▬▬▬▬▬
 
 A HWID ban is when the game bans not just your game account, but also your entire computer. The game will scan your PC and generate a unique code based on the components and settings to verify that you are who you say you are
+

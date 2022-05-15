@@ -1,5 +1,6 @@
 follow the video :https://www.youtube.com/watch?v=_wgPbll0mtU
 
+
 👉 Got banned by CFX? Here's how to get unbanned from Fivem. Here's how to get your account unbanned by utilizing a hwid spoofer to get a new id
 
 ▬ ❄️ What is a HWID ban?  ▬▬▬▬▬▬▬▬▬▬
